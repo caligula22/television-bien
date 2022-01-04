@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1 FHD" tvg-name="LA 1 HD 1080" tvg-logo="http://auve.eu:25461/images/07869bb5158f6ea08c8aca877152b426.png" group-title="ESPAÑA",LA 1 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/157
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="La 2  HD 1080" tvg-logo="http://auve.eu:25461/images/05354ea0e079370588e90918a467a888.png" group-title="ESPAÑA",La 2  HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/159
+#EXTINF:-1 tvg-id="ANTENA 3 FHD" tvg-name="ANTENA 3 HD 1080" tvg-logo="http://auve.eu:25461/images/6593d7b12fd418cdb35bbf438de72f66.png" group-title="ESPAÑA",ANTENA 3 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/161
+#EXTINF:-1 tvg-id="CUATRO FHD" tvg-name="CUATRO HD 1080" tvg-logo="http://auve.eu:25461/images/b713e6323a68d3ddabf4855826c50148.png" group-title="ESPAÑA",CUATRO HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/163
+#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="Telecinco HD 1080" tvg-logo="http://auve.eu:25461/images/00a36d1346d0dc796850b0b1d919dbb6.png" group-title="ESPAÑA",Telecinco HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/165
+#EXTINF:-1 tvg-id="0.es" tvg-name="#0 HD 1080" tvg-logo="http://auve.eu:25461/images/2ca59dfd927468c75ddade73a29a8025.png" group-title="ESPAÑA",#0 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/20
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="M. ESTRENOS HD 1080" tvg-logo="http://auve.eu:25461/images/01d2df095218cb6f05c24a86318311cc.png" group-title="ESPAÑA",M. ESTRENOS HD 1080
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS 2 1080" tvg-logo="http://auve.eu:25461/images/60aa15ed7cb3ee8da821ef721c40259c.png" group-title="ESPAÑA",M.ESTRENOS 2 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/72143
+#EXTINF:-1 tvg-id="M. ACCION FHD" tvg-name="M. ACCION HD 1080" tvg-logo="http://auve.eu:25461/images/251aecd143f47d3f6b6885d5ba187d6a.png" group-title="ESPAÑA",M. ACCION HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/26
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M. COMEDIA HD 1080" tvg-logo="http://auve.eu:25461/images/88fd01a2d7939a88aa4d760273b52464.png" group-title="ESPAÑA",M. COMEDIA HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/30
+#EXTINF:-1 tvg-id="mdrama.es" tvg-name="M. Drama HD 1080" tvg-logo="http://auve.eu:25461/images/9f2b8a1cc10ddd038be28542a5037b33.png" group-title="ESPAÑA",M. Drama HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/28
+#EXTINF:-1 tvg-id="" tvg-name="M. CLÁSICOS 1080" tvg-logo="http://auve.eu:25461/images/8d5d332d02598bf77c425f36c30c515e.png" group-title="ESPAÑA",M. CLÁSICOS 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/74402
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS HD 1080" tvg-logo="http://auve.eu:25461/images/d62a00de94c10095c8382a1af0aeebd9.png" group-title="ESPAÑA",DREAMWORKS HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/75691
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="M. Series HD 1080" tvg-logo="http://auve.eu:25461/images/31afc8d49ad1b4d38641243f53881a81.png" group-title="ESPAÑA",M. Series HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/43
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES 2 1080" tvg-logo="http://auve.eu:25461/images/31afc8d49ad1b4d38641243f53881a81.png" group-title="ESPAÑA",M. SERIES 2 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/72140
+#EXTINF:-1 tvg-id="mseriesmania.es" tvg-name="M. Seriesmania HD 1080" tvg-logo="http://auve.eu:25461/logos/MV2.png" group-title="ESPAÑA",M. Seriesmania HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/45
+#EXTINF:-1 tvg-id="" tvg-name="M. LA LIGA HD 1080 (OPCIÓN D)" tvg-logo="http://auve.eu:25461/images/29404eef4f49bd614e74aa4e27aa363c.png" group-title="ESPAÑA",M. LA LIGA HD 1080 (OPCIÓN D)
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/72579
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-name="M. LA LIGA HD" tvg-logo="http://auve.eu:25461/images/29404eef4f49bd614e74aa4e27aa363c.png" group-title="ESPAÑA",M. LA LIGA HD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/51
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="M. Liga De Campeones HD 1080" tvg-logo="http://auve.eu:25461/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="ESPAÑA",M. Liga De Campeones HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/59
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="M. Liga De Campeones HD 1080 (OPCIÓN B)" tvg-logo="http://auve.eu:25461/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="ESPAÑA",M. Liga De Campeones HD 1080 (OPCIÓN B)
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/60
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga De Campeones HD 1080 (OPCIÓN D)" tvg-logo="http://auve.eu:25461/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="ESPAÑA",M. Liga De Campeones HD 1080 (OPCIÓN D)
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/61516
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga De Campeones HD 1080 (OPCIÓN C)" tvg-logo="http://auve.eu:25461/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="ESPAÑA",M. Liga De Campeones HD 1080 (OPCIÓN C)
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/75791
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="M. Liga De Campeones HD" tvg-logo="http://auve.eu:25461/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="ESPAÑA",M. Liga De Campeones HD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/61
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 1 HD 1080" tvg-logo="http://auve.eu:25461/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="ESPAÑA",MOVISTAR DAZN 1 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/67049
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 1 SD" tvg-logo="http://auve.eu:25461/logos/dazn.jpg" group-title="ESPAÑA",MOVISTAR DAZN 1 SD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/67051
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 2 HD 1080" tvg-logo="http://auve.eu:25461/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="ESPAÑA",MOVISTAR DAZN 2 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/67052
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 3 HD 1080" tvg-logo="http://auve.eu:25461/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="ESPAÑA",MOVISTAR DAZN 3 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/67682
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 4 HD 1080" tvg-logo="http://auve.eu:25461/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="ESPAÑA",MOVISTAR DAZN 4 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/67680
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="M. DEPORTES  HD 1080" tvg-logo="http://auve.eu:25461/images/128a38c9e91795ae082131aae87dd3f0.png" group-title="ESPAÑA",M. DEPORTES  HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/85
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M. #VAMOS HD 1080" tvg-logo="http://auve.eu:25461/images/f63a1d9780f4bdeb1937feb25368fde5.png" group-title="ESPAÑA",M. #VAMOS HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/89
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M. #VAMOS HD 1080 (OPCIÓN B)" tvg-logo="http://auve.eu:25461/logos/VAMOSD.png" group-title="ESPAÑA",M. #VAMOS HD 1080 (OPCIÓN B)
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/88
+#EXTINF:-1 tvg-id="" tvg-name="M. #VAMOS HD 1080 (OPCIÓN C)" tvg-logo="http://auve.eu:25461/logos/VAMOSD.png" group-title="ESPAÑA",M. #VAMOS HD 1080 (OPCIÓN C)
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/66733
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Eurosport HD 1080" tvg-logo="http://auve.eu:25461/images/3e30ce90c5b1d89ae09b7d4c73d8e172.png" group-title="ESPAÑA",Eurosport HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/92
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Eurosport 2 HD 1080" tvg-logo="http://auve.eu:25461/images/b1a09d2f3b01fe725a3d60169e214689.png" group-title="ESPAÑA",Eurosport 2 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/94
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD 1080" tvg-logo="http://auve.eu:25461/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="ESPAÑA",Movistar F1 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/76531
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Movistar F1 HD 1080 (OPCIÓN B)" tvg-logo="http://auve.eu:25461/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="ESPAÑA",Movistar F1 HD 1080 (OPCIÓN B)
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/96
+#EXTINF:-1 tvg-id="" tvg-name="TELE MADRID HD" tvg-logo="" group-title="ESPAÑA",TELE MADRID HD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/227
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 HD 1080(OPCIÓN B)" tvg-logo="" group-title="ESPAÑA",M. LaLiga 1 HD 1080(OPCIÓN B)
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/51969
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="M. DEPORTES 1  HD 1080" tvg-logo="http://auve.eu:25461/images/f3e738d09f5038ec0f090d6317e85525.png" group-title="ESPAÑA",M. DEPORTES 1  HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/744
+#EXTINF:-1 tvg-id="M.LCAMPEON1 FHD" tvg-name="M. Liga De Campeones 1 HD 1080" tvg-logo="http://auve.eu:25461/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="ESPAÑA",M. Liga De Campeones 1 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/62
+#EXTINF:-1 tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="M. Liga De Campeones 1 HD 1080 (OPCIÓN B)" tvg-logo="http://auve.eu:25461/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="ESPAÑA",M. Liga De Campeones 1 HD 1080 (OPCIÓN B)
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/63
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga De Campeones 1 HD 1080 (OPCIÓN C)" tvg-logo="http://auve.eu:25461/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="ESPAÑA",M. Liga De Campeones 1 HD 1080 (OPCIÓN C)
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/75789
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M. Liga De Campeones 1 HD" tvg-logo="http://auve.eu:25461/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="ESPAÑA",M. Liga De Campeones 1 HD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/16380
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga De Campeones 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA",M. Liga De Campeones 1 SD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/15966
+#EXTINF:-1 tvg-id="M.LCAMPEON2 FHD" tvg-name="M. Liga De Campeones 2 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ESPAÑA",M. Liga De Campeones 2 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/65
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga De Campeones 2 HD" tvg-logo="http://auve.eu:25461/images/c9f07c1ae1e1fa0454e1bb03c8ac47bb.png" group-title="ESPAÑA",M. Liga De Campeones 2 HD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/75790
+#EXTINF:-1 tvg-id="M.LCAMPEON2 FHD" tvg-name="M. Liga De Campeones 2 SD" tvg-logo="http://auve.eu:25461/images/c9f07c1ae1e1fa0454e1bb03c8ac47bb.png" group-title="ESPAÑA",M. Liga De Campeones 2 SD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/64
+#EXTINF:-1 tvg-id="M.LCAMPEON3 FHD" tvg-name="M.Liga de Campeones 3 HD 1080" tvg-logo="http://auve.eu:25461/images/22a3851b88211008d306197ce9fd8ccb.png" group-title="ESPAÑA",M.Liga de Campeones 3 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/750
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga de Campeones 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="ESPAÑA",M.Liga de Campeones 3 SD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/59422
+#EXTINF:-1 tvg-id="M.LCAMPEON4 FHD" tvg-name="M. Liga De Campeones 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="ESPAÑA",M. Liga De Campeones 4 HD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/751
+#EXTINF:-1 tvg-id="M.LCAMPEON4 FHD" tvg-name="M.Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="ESPAÑA",M.Liga de Campeones 4
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/752
+#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.LIGA DE CAMPEONES 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="ESPAÑA",M.LIGA DE CAMPEONES 5 HD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/753
+#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="ESPAÑA",M.Liga de Campeones 5
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/754
+#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.Liga de Campeones 6 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="ESPAÑA",M.Liga de Campeones 6 HD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/755
+#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.Liga de Campeones 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="ESPAÑA",M.Liga de Campeones 6
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/756
+#EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M.Liga de Campeones 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="ESPAÑA",M.Liga de Campeones 7
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/757
+#EXTINF:-1 tvg-id="" tvg-name="Multifútbol 2" tvg-logo="" group-title="ESPAÑA",Multifútbol 2
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/259
+#EXTINF:-1 tvg-id="" tvg-name="MULTIFUT. 3 HD" tvg-logo="" group-title="ESPAÑA",MULTIFUT. 3 HD
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/260
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/37563
+#EXTINF:-1 tvg-id="" tvg-name="M. La Liga 1 1080" tvg-logo="" group-title="ESPAÑA",M. La Liga 1 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/69596
+#EXTINF:-1 tvg-id="" tvg-name="M. La Liga 2 HD 1080" tvg-logo="" group-title="ESPAÑA",M. La Liga 2 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/69599
+#EXTINF:-1 tvg-id="" tvg-name="M. LA LIGA 3 1080" tvg-logo="" group-title="ESPAÑA",M. LA LIGA 3 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/69602
+#EXTINF:-1 tvg-id="" tvg-name="M. LA LIGA 4 HD 1080" tvg-logo="" group-title="ESPAÑA",M. LA LIGA 4 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/69605
+#EXTINF:-1 tvg-id="" tvg-name="M. LA LIGA 5 HD 1080" tvg-logo="" group-title="ESPAÑA",M. LA LIGA 5 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/69608
+#EXTINF:-1 tvg-id="" tvg-name="M. LA LIGA 6 HD 1080" tvg-logo="" group-title="ESPAÑA",M. LA LIGA 6 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/69611
+#EXTINF:-1 tvg-id="" tvg-name="M. LA LIGA 7 HD 1080" tvg-logo="" group-title="ESPAÑA",M. LA LIGA 7 HD 1080
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/69614
+#EXTINF:-1 tvg-id="" tvg-name="M. La Liga 8" tvg-logo="" group-title="ESPAÑA",M. La Liga 8
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/69617
+#EXTINF:-1 tvg-id="" tvg-name="M. La Liga 9" tvg-logo="" group-title="ESPAÑA",M. La Liga 9
+http://clanmagic.net:25461/Villa559/gJ5B3KYBUT/69619
